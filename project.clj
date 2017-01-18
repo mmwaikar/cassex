@@ -6,4 +6,5 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/tools.namespace "0.2.11"]
                  [cc.qbits/alia-all "4.0.0-beta4"]
-                 [cc.qbits/hayt "4.0.0-beta7"]])
+                 [cc.qbits/hayt "4.0.0-beta7"]
+                 [com.taoensso/timbre "4.8.0"]])
